@@ -2,6 +2,8 @@
 
 Animated Wings of Freedom watch face for the Amazfit Bip Max.
 
+![Wings of Freedom watch face preview](art/preview.gif)
+
 Use [Node.js 22 LTS](https://nodejs.org/en/download).
 
 ## 1. Download and install dependencies
