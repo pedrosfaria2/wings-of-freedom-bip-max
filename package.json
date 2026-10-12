@@ -1,0 +1,14 @@
+{
+  "name": "wings-of-freedom-bip-max",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "assets": "node scripts/build-assets.cjs",
+    "build": "node scripts/zeus.cjs build",
+    "dev": "node scripts/zeus.cjs dev -t \"Amazfit Bip Max\""
+  },
+  "devDependencies": {
+    "@zeppos/zeus-cli": "1.9.3",
+    "sharp": "0.34.5"
+  }
+}
